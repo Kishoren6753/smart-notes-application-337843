@@ -1,1 +1,3 @@
-# smart-notes-application-337843
+# Project Repository
+
+This is the initial README file for the project.
